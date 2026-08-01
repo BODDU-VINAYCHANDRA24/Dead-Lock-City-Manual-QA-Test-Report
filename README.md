@@ -22,11 +22,11 @@ This project demonstrates my practical knowledge of manual game testing, gamepla
 
 ## 📱 Test Environment
 
-Device :  Vivo V30e 
-Operating System : Android 15 
-Game Version : 1.0 
-Network :  Jio 
-Testing Type : Manual Gameplay Testing 
+Device :  Vivo V30e |
+Operating System : Android 15 |
+Game Version : 1.0 |
+Network :  Jio |
+Testing Type : Manual Gameplay Testing |
 
 ---
 
